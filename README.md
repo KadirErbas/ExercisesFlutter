@@ -1,3 +1,3 @@
 # ExercisesFlutter
 
-Bu respostory fluttur ile yaptığım uygulamaları içermektedir.
+Bu respository fluttur ile yaptığım uygulamaları içermektedir.
